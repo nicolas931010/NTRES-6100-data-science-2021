@@ -6,7 +6,11 @@
 
 <br>
 
-Course website: https://nt246.github.io/NTRES-6100-data-science/
+This is the Spring 2021 version of the GitHub repo for the NTRES 6100 class.
+
+<br>
+
+Course website: https://nicolas931010.github.io/NTRES-6100-data-science-2021/index.html
 
 <br>
 
